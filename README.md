@@ -11,10 +11,10 @@
   <img align="center" alt="CSS" height="30" width="30" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
-  <img align="center" alt="CSS" height="40" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+  <img align="center" alt="PYTHON" height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+  <img align="center" alt="GIT" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+  <img align="center" alt="POSTEGRESQL" height="40" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">
+  <img align="center" alt="MONGODB" height="40" width="40" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
 
  
   
